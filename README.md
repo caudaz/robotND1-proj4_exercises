@@ -1,3 +1,3 @@
-Lessons and code from Lesson23 "Introduction to Controls"
+Lessons and code from all lessons that will be used in the final project
 
-pid_controller.py will be used in [robotND1-proj4_Quadrotor_PID](https://github.com/caudaz/robotND1-proj4_Quadrotor_PID)
+[Final Project#4 Follow me using FCN is found here](https://github.com/caudaz/robotND1-proj4)
